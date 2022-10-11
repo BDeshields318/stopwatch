@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Gujarati:wght@700&display=swap');
+
+#timeDisplay{
+    font-size: 85px;
+    color: darkblue;
+    font-family: 'Noto Serif Gujarati', serif;
+}
+
+#timeContainer{
+    text-align: center;
+    border: 10px solid;
+    border-radius: 25px;
+    background-color: rgb(3, 112, 155);
+}
+
+.timerBtn {
+    width: 115px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+    font-family: 'Noto Serif Gujarati', serif;
+}
